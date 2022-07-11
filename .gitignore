@@ -6,6 +6,8 @@ archive/
 archive.zip
 # C extensions
 *.so
+Fruit/
+dataset/
 
 # Distribution / packaging
 .Python
