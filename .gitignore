@@ -7,8 +7,8 @@ archive.zip
 # C extensions
 *.so
 Fruit/
-dataset/
-
+*dataset/
+*tensorboard/
 # Distribution / packaging
 .Python
 build/
